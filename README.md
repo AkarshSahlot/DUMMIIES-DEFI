@@ -1,4 +1,5 @@
 # Defi Buddy: Your Solana AI Sidekick
+https://dummiies-defi.vercel.app/?network=devnet
 
 Hey there! Welcome to **Defi Buddy**. We built this to bridge the gap between complex DeFi protocols and a simple, conversational interface. No more wrestling with complicated dashboards just to swap tokens or check your liquidity.
 
